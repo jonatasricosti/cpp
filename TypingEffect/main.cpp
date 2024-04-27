@@ -4,7 +4,7 @@
 using namespace std;
 
 
-// essa função desacelerar o tempo
+// essa função desacelera o tempo
 void Sleep(int delay)
 {
 	int timer = 0;
