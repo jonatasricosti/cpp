@@ -4,7 +4,7 @@
 int main()
 {
 
-char letra = 'j';
+char letra = 'j'; // %c
 char nome[] = "Jonatas"; // %s
 int idade = 20; // %i
 float meufloat = 2.5; // %f
