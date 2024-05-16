@@ -4,7 +4,7 @@ int main()
 {
 setlocale(LC_ALL, "portuguese");// serve pra usar caracteres brasileiros
 
-// o cout é comando escreva da lingaugem c++
+// o cout é comando escreva da linguagem c++
 // o cout = console out serve pra escrever na tela do terminal
 
 

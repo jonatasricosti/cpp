@@ -5,7 +5,7 @@ int main()
 {
 setlocale(LC_ALL, "portuguese");// serve pra usar caracteres brasileiros
 
-// o cin é comando leia da lingaugem c++
+// o cin é comando leia da linguagem c++
 // o cin = character ou console input serve pra ler dados
 
 
