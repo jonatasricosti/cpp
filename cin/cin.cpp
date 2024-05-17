@@ -1,4 +1,4 @@
-#include <iostream> // pra usar o comando cout
+#include <iostream> // pra usar o comando cout, cin
 using namespace std; // com isso não precisa escrever std::
 
 int main()

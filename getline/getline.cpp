@@ -5,7 +5,7 @@ int main()
 {
 setlocale(LC_ALL, "portuguese");// serve pra usar caracteres brasileiros
 
-// a função getline lê uma string de linha, ou seja, consegue lê um string com espaço
+// a função getline lê uma string de linha, ou seja, consegue lê uma string com espaço
 
 string nome;
 cout << "digite seu nome completo: ";
